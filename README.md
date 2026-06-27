@@ -16,7 +16,7 @@ on data engineering and database administration fundamentals.
 - psycopg2 (PostgreSQL connector)
 
 ## Architecture
-Raw Data → Python Ingestion → Data Validation → PostgreSQL → Analytics Queries
+Raw Data (Kaggle) → Python Ingestion → Data Validation → PostgreSQL → Analytics Queries
 
 ## Features
 - Batch ingestion of ride data
